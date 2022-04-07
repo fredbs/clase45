@@ -1,4 +1,3 @@
-# clase45
 
 ---
 title: TitClase45
