@@ -16,4 +16,4 @@ jobs:
       - name: Push to hub
         env:
           HF_TOKEN: ${{ secrets.HF_TOKEN }}
-        run: git push https://lukaman12:$HF_TOKEN@huggingface.co/spaces/lukaman12/TitClase45
+        run: git push --force https://lukaman12:$HF_TOKEN@huggingface.co/spaces/lukaman12/TitClase45
